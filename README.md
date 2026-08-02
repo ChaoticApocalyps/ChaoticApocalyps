@@ -3,6 +3,14 @@ This repository is for practicing the GitHub Flow
 
 ```css
 
+Chaotic Apocalypse/
+        Interests/
+        Fate.mp4
+Hobbies/
+        Gaming.exe
+        coding.py
+
+
 ┏━━━━━━━━━━━━━━━━◥◣◆◢◤━━━━━━━━━━━━━━━━━━━━┓
         「 ✦ 𝐂𝐡𝐚𝐨𝐭𝐢𝐜 𝐀𝐩𝐨𝐜𝐚𝐥𝐲𝐩𝐬𝐞 ✦ 」
 
