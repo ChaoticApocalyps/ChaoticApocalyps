@@ -15,5 +15,4 @@ This repository is for practicing the GitHub Flow
 |        |        Python.py
 |        |        Kotlin.kts
 |        |        Javascript.js
-
 ```
