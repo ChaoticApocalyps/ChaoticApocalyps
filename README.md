@@ -5,12 +5,12 @@ This repository is for practicing the GitHub Flow
 
 | Chaotic Apocalyps/
 |        Alias/
-|        |        Chaos
+|        |        Chaos.md
 |        Interests/
 |        |        Fate.mp4
 |        Hobbies/
 |        |        Gaming.exe
-|        |        coding.py
+|        |        Coding.py
 |        Currently learning/
 |        |        Python.py
 |        |        Kotlin.kts
