@@ -3,7 +3,7 @@ This repository is for practicing the GitHub Flow
 
 ```css
 
-| Chaotic Apocalypse/
+| Chaotic Apocalyps/
 |        Interests/
 |        |        Fate.mp4
 |        Hobbies/
