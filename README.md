@@ -4,6 +4,8 @@ This repository is for practicing the GitHub Flow
 ```css
 
 | Chaotic Apocalyps/
+|        Alias/
+|        |        Chaos
 |        Interests/
 |        |        Fate.mp4
 |        Hobbies/
@@ -13,6 +15,5 @@ This repository is for practicing the GitHub Flow
 |        |        Python.py
 |        |        Kotlin.kts
 |        |        Javascript.js
-|        Alias/
-|        |        Chaos
+
 ```
