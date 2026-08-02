@@ -9,6 +9,10 @@ This repository is for practicing the GitHub Flow
 |        Hobbies/
 |        |        Gaming.exe
 |        |        coding.py
+|        Currently learning/
+|        |        Python.py
+|        |        Kotlin.kts
+|        |        Javascript.js
 |        Alias/
 |        |        Chaos
 ```
