@@ -7,7 +7,7 @@ This repository is for practicing the GitHub Flow
 |        Alias/
 |        |        Chaos.md
 |        Interests/
-|        |        Fate.mp4
+|        |        FATE.mp4
 |        Hobbies/
 |        |        Gaming.exe
 |        |        Coding.py
