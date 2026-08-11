@@ -1,5 +1,4 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+# ✦ print(hello-world)
 
 ```css
 
@@ -15,8 +14,12 @@ This repository is for practicing the GitHub Flow
 |        Coding languages/
 |        |        Professional/
 |        |        Intermediate/
-|        |        Beginner/
 |        |        |        |Python.py
+|        |        Beginner/
 |        Currently learning/
-|        |        Python.py        
+|        |        Python.py
+|        Credits/
+|        |        Pfp/
+|        |        |        |Tlep - Neka.cc.png
+
 ```
