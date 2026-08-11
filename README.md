@@ -20,6 +20,6 @@
 |        |        Python.py
 |        Credits/
 |        |        Pfp/
-|        |        |        |Tlep - Neka.cc.png
+|        |        |        |Tlep - Neka.cc
 
 ```
