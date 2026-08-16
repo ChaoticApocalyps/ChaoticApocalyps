@@ -14,8 +14,10 @@
 |        Coding languages/
 |        |        Professional/
 |        |        Intermediate/
-|        |        |        |Python.py
 |        |        Beginner/
+|        |        |        |Python.py
+|        |        |        |HTML.html
+|        |        |        |CSS.css
 |        Currently learning/
 |        |        Python.py
 |        Credits/
