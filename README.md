@@ -9,8 +9,9 @@
 |        |        FATE.mp4
 |        |        Persona.exe
 |        Hobbies/
-|        |        Gaming.exe
 |        |        Coding.py
+|        |        Gaming.exe
+|        |        Watching anime.mp4
 |        Coding languages/
 |        |        Professional/
 |        |        Intermediate/
